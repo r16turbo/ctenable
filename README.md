@@ -8,4 +8,4 @@ FYI: [Enable/disable ClearType in Windows7](https://stackoverflow.com/questions/
 
  * Set the `On connection to user session` trigger task to Task Scheduler.
  * For `Settings`, select `Connect from remote computer`.
- * Since it is invalid after a while, we recommend `Repeat task every` setting.
+ * ~~Since it is invalid after a while, we recommend `Repeat task every` setting.~~
